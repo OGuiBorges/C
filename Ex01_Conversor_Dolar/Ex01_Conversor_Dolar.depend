@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661445926 source:d:\guilh\desktop\gui\programação\c\ex01_conversor_dolar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

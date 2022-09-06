@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661466503 source:d:\guilh\desktop\gui\programação\c\ex06_médiaifelse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

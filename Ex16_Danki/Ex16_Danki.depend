@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661357666 source:d:\guilh\desktop\gui\programação\c\ex16_danki\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

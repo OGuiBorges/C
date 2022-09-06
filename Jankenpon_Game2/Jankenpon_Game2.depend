@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661040448 source:d:\guilh\desktop\gui\programação\c\jankenpon_game2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

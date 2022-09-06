@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662074075 source:d:\guilh\desktop\gui\programação\c\calculo_trocavariavelsaux\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
