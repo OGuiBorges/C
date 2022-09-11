@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662905115 source:d:\guilh\desktop\gui\programação\c\ex011\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
