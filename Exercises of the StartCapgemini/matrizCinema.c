@@ -13,21 +13,49 @@ int main()
     {
         for(j = 0; j < 10; j++)
         {
-            cinema[i][j] = "O";
+            cinema[i][j] = 'O';
         }
 
     }
-    do
+
+    while(opcao != '3')
     {
-        printf("1 - RESERVAS\n");
+        fflush(stdin);
+        printf("\n1 - RESERVAS\n");
         printf("2 - LAYOUT DO CINEMA\n");
         printf("3 - SAIR\n");
         scanf("%c", &opcao);
-    }
-    while(opcao == "3");
-    switch(opcao)
+        switch(opcao)
+        {
         case '1':
-            break;
+        system("cls");
+        printf("Fila: ");
+        scanf("%d", &fila);
+        printf("Poltrona: ");
+        scanf("%d", &poltrona);
+        if(cinema[fila-1][poltrona-1] == 'O')
+        {
+            cinema[fila-1][poltrona-1] = 'X';
+        }
+        else
+        {
+            printf("Poltrona já ocupada\n");
+        }
+        break;
+        case '2':
+        system("cls");
+        for(i = 0; i < 10; i++)
+        {
+            for(j = 0;j < 10;j++)
+            {
+                printf(" %c",cinema[i][j]);
+            }
+            printf("\n");
+        }
+        break;
+        }
+    }
+
 
 
 
