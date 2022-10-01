@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664033564 source:d:\guilh\desktop\gui\programação\c\exfuncaoproc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+

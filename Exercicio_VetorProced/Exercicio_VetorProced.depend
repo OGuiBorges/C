@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664186922 source:d:\guilh\desktop\gui\programação\c\exercicio_vetorproced\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
